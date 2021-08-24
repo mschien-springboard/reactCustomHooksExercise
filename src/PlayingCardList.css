@@ -1,0 +1,14 @@
+.PlayingCardList {
+  flex: 1;
+  flex-direction: column;
+  background: forestgreen;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 10px;
+  color: white;
+  min-height: 80vh;
+}
+
+.PlayingCardList-card-area {
+  flex: 1;
+}
